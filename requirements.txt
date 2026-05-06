@@ -1,0 +1,21 @@
+# CS-404 Big Data Analytics — Assignment 03
+# Python dependencies
+
+# PySpark (match your Hadoop cluster version)
+pyspark>=3.4.0
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# PDF generation for final_report.py
+reportlab>=4.0.0
+fpdf2>=2.7.0
+
+# Utility (from A2)
+chardet>=5.1.0
+kaggle>=1.5.16
